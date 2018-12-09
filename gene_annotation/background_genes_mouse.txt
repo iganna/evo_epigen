@@ -1,3 +1,4 @@
+mouse_background
 A1BG
 A1CF
 A2M
