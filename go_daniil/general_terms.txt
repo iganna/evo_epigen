@@ -1,0 +1,246 @@
+GO:3723	RNA binding
+GO:30529	intracellular ribonucleoprotein complex
+GO:5634	nucleus
+GO:1990904	ribonucleoprotein complex
+GO:31981	nuclear lumen
+GO:44428	nuclear part
+GO:70013	intracellular organelle lumen
+GO:43233	organelle lumen
+GO:44446	intracellular organelle part
+GO:3676	nucleic acid binding
+GO:31974	membrane-enclosed lumen
+GO:44033	multi-organism metabolic process
+GO:44422	organelle part
+GO:43229	intracellular organelle
+GO:32991	macromolecular complex
+GO:22613	ribonucleoprotein complex biogenesis
+GO:34641	cellular nitrogen compound metabolic process
+GO:44424	intracellular part
+GO:43231	intracellular membrane-bounded organelle
+GO:1901363	heterocyclic compound binding
+GO:5622	intracellular
+GO:6807	nitrogen compound metabolic process
+GO:97159	organic cyclic compound binding
+GO:5654	nucleoplasm
+GO:6139	nucleobase-containing compound metabolic process
+GO:34645	cellular macromolecule biosynthetic process
+GO:9059	macromolecule biosynthetic process
+GO:90304	nucleic acid metabolic process
+GO:6725	cellular aromatic compound metabolic process
+GO:46483	heterocycle metabolic process
+GO:44271	cellular nitrogen compound biosynthetic process
+GO:10467	gene expression
+GO:43226	organelle
+GO:43227	membrane-bounded organelle
+GO:44260	cellular macromolecule metabolic process
+GO:44764	multi-organism cellular process
+GO:44419	interspecies interaction between organisms
+GO:1901360	organic cyclic compound metabolic process
+GO:44249	cellular biosynthetic process
+GO:9058	biosynthetic process
+GO:43170	macromolecule metabolic process
+GO:1901576	organic substance biosynthetic process
+GO:16070	RNA metabolic process
+GO:43232	intracellular non-membrane-bounded organelle
+GO:43228	non-membrane-bounded organelle
+GO:34655	nucleobase-containing compound catabolic process
+GO:44237	cellular metabolic process
+GO:44265	cellular macromolecule catabolic process
+GO:19438	aromatic compound biosynthetic process
+GO:18130	heterocycle biosynthetic process
+GO:9057	macromolecule catabolic process
+GO:44085	cellular component biogenesis
+GO:34654	nucleobase-containing compound biosynthetic process
+GO:32774	RNA biosynthetic process
+GO:1901362	organic cyclic compound biosynthetic process
+GO:71704	organic substance metabolic process
+GO:44238	primary metabolic process
+GO:8152	metabolic process
+GO:1901566	organonitrogen compound biosynthetic process
+GO:5515	protein binding
+GO:5829	cytosol
+GO:1902582	single-organism intracellular transport
+GO:70727	cellular macromolecule localization
+GO:34613	cellular protein localization
+GO:44267	cellular protein metabolic process
+GO:34622	cellular macromolecular complex assembly
+GO:46907	intracellular transport
+GO:43933	macromolecular complex subunit organization
+GO:51641	cellular localization
+GO:6886	intracellular protein transport
+GO:5737	cytoplasm
+GO:5198	structural molecule activity
+GO:51704	multi-organism process
+GO:16020	membrane
+GO:1901564	organonitrogen compound metabolic process
+GO:22618	ribonucleoprotein complex assembly
+GO:71840	cellular component organization or biogenesis
+GO:1901575	organic substance catabolic process
+GO:19538	protein metabolic process
+GO:1902580	single-organism cellular localization
+GO:71826	ribonucleoprotein complex subunit organization
+GO:51171	regulation of nitrogen compound metabolic process
+GO:44802	single-organism membrane organization
+GO:44248	cellular catabolic process
+GO:51649	establishment of localization in cell
+GO:65003	macromolecular complex assembly
+GO:6996	organelle organization
+GO:8104	protein localization
+GO:9056	catabolic process
+GO:44444	cytoplasmic part
+GO:45184	establishment of protein localization
+GO:16043	cellular component organization
+GO:33036	macromolecule localization
+GO:15031	protein transport
+GO:10468	regulation of gene expression
+GO:61024	membrane organization
+GO:2000112	regulation of cellular macromolecule biosynthetic process
+GO:60255	regulation of macromolecule metabolic process
+GO:10556	regulation of macromolecule biosynthetic process
+GO:43234	protein complex
+GO:51172	negative regulation of nitrogen compound metabolic process
+GO:10629	negative regulation of gene expression
+GO:19219	regulation of nucleobase-containing compound metabolic process
+GO:80090	regulation of primary metabolic process
+GO:9889	regulation of biosynthetic process
+GO:31326	regulation of cellular biosynthetic process
+GO:22607	cellular component assembly
+GO:33554	cellular response to stress
+GO:51253	negative regulation of RNA metabolic process
+GO:19222	regulation of metabolic process
+GO:45934	negative regulation of nucleobase-containing compound metabolic process
+GO:10558	negative regulation of macromolecule biosynthetic process
+GO:97659	nucleic acid-templated transcription
+GO:10605	negative regulation of macromolecule metabolic process
+GO:19899	enzyme binding
+GO:44464	cell part
+GO:31323	regulation of cellular metabolic process
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process
+GO:5623	cell
+GO:51252	regulation of RNA metabolic process
+GO:6351	transcription, DNA-templated
+GO:5488	binding
+GO:9890	negative regulation of biosynthetic process
+GO:9892	negative regulation of metabolic process
+GO:9987	cellular process
+GO:1902679	negative regulation of RNA biosynthetic process
+GO:3677	DNA binding
+GO:31327	negative regulation of cellular biosynthetic process
+GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:7049	cell cycle
+GO:10604	positive regulation of macromolecule metabolic process
+GO:10628	positive regulation of gene expression
+GO:1903506	regulation of nucleic acid-templated transcription
+GO:1903561	extracellular vesicle
+GO:43230	extracellular organelle
+GO:2001141	regulation of RNA biosynthetic process
+GO:31324	negative regulation of cellular metabolic process
+GO:46982	protein heterodimerization activity
+GO:51173	positive regulation of nitrogen compound metabolic process
+GO:6355	regulation of transcription, DNA-templated
+GO:71822	protein complex subunit organization
+GO:71702	organic substance transport
+GO:9893	positive regulation of metabolic process
+GO:45935	positive regulation of nucleobase-containing compound metabolic process
+GO:48523	negative regulation of cellular process
+GO:48519	negative regulation of biological process
+GO:6461	protein complex assembly
+GO:70271	protein complex biogenesis
+GO:6950	response to stress
+GO:51254	positive regulation of RNA metabolic process
+GO:19941	modification-dependent protein catabolic process
+GO:31328	positive regulation of cellular biosynthetic process
+GO:10557	positive regulation of macromolecule biosynthetic process
+GO:9891	positive regulation of biosynthetic process
+GO:31325	positive regulation of cellular metabolic process
+GO:1990234	transferase complex
+GO:1902494	catalytic complex
+GO:18205	peptidyl-lysine modification
+GO:70647	protein modification by small protein conjugation or removal
+GO:32268	regulation of cellular protein metabolic process
+GO:44877	macromolecular complex binding
+GO:31982	vesicle
+GO:9719	response to endogenous stimulus
+GO:44429	mitochondrial part
+GO:6464	cellular protein modification process
+GO:36211	protein modification process
+GO:48518	positive regulation of biological process
+GO:1901700	response to oxygen-containing compound
+GO:14074	response to purine-containing compound
+GO:71407	cellular response to organic cyclic compound
+GO:71310	cellular response to organic substance
+GO:51248	negative regulation of protein metabolic process
+GO:44421	extracellular region part
+GO:48522	positive regulation of cellular process
+GO:16740	transferase activity
+GO:1903829	positive regulation of cellular protein localization
+GO:16887	ATPase activity
+GO:71495	cellular response to endogenous stimulus
+GO:32270	positive regulation of cellular protein metabolic process
+GO:6810	transport
+GO:51234	establishment of localization
+GO:1901698	response to nitrogen compound
+GO:10243	response to organonitrogen compound
+GO:9628	response to abiotic stimulus
+GO:51247	positive regulation of protein metabolic process
+GO:1902578	single-organism localization
+GO:32553	ribonucleotide binding
+GO:51129	negative regulation of cellular component organization
+GO:32550	purine ribonucleoside binding
+GO:44765	single-organism transport
+GO:1883	purine nucleoside binding
+GO:32549	ribonucleoside binding
+GO:1882	nucleoside binding
+GO:51179	localization
+GO:35639	purine ribonucleoside triphosphate binding
+GO:98798	mitochondrial protein complex
+GO:42802	identical protein binding
+GO:22411	cellular component disassembly
+GO:44092	negative regulation of molecular function
+GO:17076	purine nucleotide binding
+GO:32555	purine ribonucleotide binding
+GO:31090	organelle membrane
+GO:42326	negative regulation of phosphorylation
+GO:44445	cytosolic part
+GO:43632	modification-dependent macromolecule catabolic process
+GO:166	nucleotide binding
+GO:1901265	nucleoside phosphate binding
+GO:31988	membrane-bounded vesicle
+GO:19866	organelle inner membrane
+GO:70925	organelle assembly
+GO:43412	macromolecule modification
+GO:31967	organelle envelope
+GO:15931	nucleobase-containing compound transport
+GO:5637	nuclear inner membrane
+GO:10639	negative regulation of organelle organization
+GO:33043	regulation of organelle organization
+GO:51098	regulation of binding
+GO:51100	negative regulation of binding
+GO:51099	positive regulation of binding
+GO:51338	regulation of transferase activity
+GO:44297	cell body
+GO:31975	envelope
+GO:3723	RNA binding
+GO:3729	mRNA binding
+GO:51606	detection of stimulus
+GO:7186	G-protein coupled receptor signaling pathway
+GO:4930	G-protein coupled receptor activity
+GO:16021	integral component of membrane
+GO:99600	transmembrane receptor activity
+GO:31224	intrinsic component of membrane
+GO:5576	extracellular region
+GO:44425	membrane part
+GO:4872	receptor activity
+GO:60089	molecular transducer activity
+GO:44281	small molecule metabolic process
+GO:16787	hydrolase activity
+GO:31225	anchored component of membrane
+GO:5615	extracellular space
+GO:32559	adenyl ribonucleotide binding
+GO:5524	ATP binding
+GO:44712	single-organism catabolic process
+GO:19898	extrinsic component of membrane
+GO:4871	signal transducer activity
+GO:50877	neurological system process
+GO:6508	proteolysis
+GO:16491	oxidoreductase activity

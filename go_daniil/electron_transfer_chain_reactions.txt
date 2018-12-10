@@ -1,0 +1,4 @@
+GO:9055	electron carrier activity
+GO:51536	iron-sulfur cluster binding
+GO:22904	respiratory electron transport chain
+GO:22900	electron transport chain

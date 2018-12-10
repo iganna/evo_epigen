@@ -1,0 +1,157 @@
+GO:790	nuclear chromatin
+GO:786	nucleosome
+GO:785	chromatin
+GO:32993	protein-DNA complex
+GO:44815	DNA packaging complex
+GO:44427	chromosomal part
+GO:51276	chromosome organization
+GO:44454	nuclear chromosome part
+GO:5694	chromosome
+GO:6325	chromatin organization
+GO:228	nuclear chromosome
+GO:71824	protein-DNA complex subunit organization
+GO:44451	nucleoplasm part
+GO:65004	protein-DNA complex assembly
+GO:71103	DNA conformation change
+GO:16604	nuclear body
+GO:6974	cellular response to DNA damage stimulus
+GO:6342	chromatin silencing
+GO:31497	chromatin assembly
+GO:34728	nucleosome organization
+GO:6334	nucleosome assembly
+GO:6333	chromatin assembly or disassembly
+GO:6323	DNA packaging
+GO:6259	DNA metabolic process
+GO:16607	nuclear speck
+GO:51169	nuclear transport
+GO:6913	nucleocytoplasmic transport
+GO:6281	DNA repair
+GO:98687	chromosomal region
+GO:42393	histone binding
+GO:32200	telomere organization
+GO:35097	histone methyltransferase complex
+GO:788	nuclear nucleosome
+GO:90305	nucleic acid phosphodiester bond hydrolysis
+GO:51168	nuclear export
+GO:34723	DNA replication-dependent nucleosome organization
+GO:6335	DNA replication-dependent nucleosome assembly
+GO:30330	DNA damage response, signal transduction by p53 class mediator
+GO:5719	nuclear euchromatin
+GO:72331	signal transduction by p53 class mediator
+GO:42770	signal transduction in response to DNA damage
+GO:2001020	regulation of response to DNA damage stimulus
+GO:16569	covalent chromatin modification
+GO:781	chromosome, telomeric region
+GO:183	chromatin silencing at rDNA
+GO:3682	chromatin binding
+GO:6260	DNA replication
+GO:16570	histone modification
+GO:32392	DNA geometric change
+GO:51054	positive regulation of DNA metabolic process
+GO:34504	protein localization to nucleus
+GO:32508	DNA duplex unwinding
+GO:34508	centromere complex assembly
+GO:791	euchromatin
+GO:34968	histone lysine methylation
+GO:31010	ISWI-type complex
+GO:51052	regulation of DNA metabolic process
+GO:784	nuclear chromosome, telomeric region
+GO:3697	single-stranded DNA binding
+GO:31490	chromatin DNA binding
+GO:31055	chromatin remodeling at centromere
+GO:19213	deacetylase activity
+GO:31057	negative regulation of histone modification
+GO:16571	histone methylation
+GO:1901797	negative regulation of signal transduction by p53 class mediator
+GO:43566	structure-specific DNA binding
+GO:6476	protein deacetylation
+GO:70035	purine NTP-dependent helicase activity
+GO:71339	MLL1 complex
+GO:44665	MLL1/2 complex
+GO:43486	histone exchange
+GO:51101	regulation of DNA binding
+GO:18022	peptidyl-lysine methylation
+GO:6977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest
+GO:35601	protein deacylation
+GO:6338	chromatin remodeling
+GO:5720	nuclear heterochromatin
+GO:16589	NURF complex
+GO:6479	protein methylation
+GO:98732	macromolecule deacylation
+GO:51570	regulation of histone H3-K9 methylation
+GO:717	nucleotide-excision repair, DNA duplex unwinding
+GO:2001021	negative regulation of response to DNA damage stimulus
+GO:70911	global genome nucleotide-excision repair
+GO:6336	DNA replication-independent nucleosome assembly
+GO:34080	CENP-A containing nucleosome assembly
+GO:61641	CENP-A containing chromatin organization
+GO:42826	histone deacetylase binding
+GO:71897	DNA biosynthetic process
+GO:34724	DNA replication-independent nucleosome organization
+GO:1902229	regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+GO:77	DNA damage checkpoint
+GO:33558	protein deacetylase activity
+GO:2001251	negative regulation of chromosome organization
+GO:792	heterochromatin
+GO:31492	nucleosomal DNA binding
+GO:42769	DNA damage response, detection of DNA damage
+GO:6296	nucleotide-excision repair, DNA incision, 5'-to lesion
+GO:1902230	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+GO:33683	nucleotide-excision repair, DNA incision
+GO:6303	double-strand break repair via nonhomologous end joining
+GO:6473	protein acetylation
+GO:6289	nucleotide-excision repair
+GO:51567	histone H3-K9 methylation
+GO:18394	peptidyl-lysine acetylation
+GO:2001252	positive regulation of chromosome organization
+GO:33044	regulation of chromosome organization
+GO:18393	internal peptidyl-lysine acetylation
+GO:3690	double-stranded DNA binding
+GO:1901984	negative regulation of protein acetylation
+GO:16575	histone deacetylation
+GO:775	chromosome, centromeric region
+GO:70199	establishment of protein localization to chromosome
+GO:6475	internal protein amino acid acetylation
+GO:16874	ligase activity
+GO:43426	MRF binding
+GO:1902166	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+GO:43518	negative regulation of DNA damage response, signal transduction by p53 class mediator
+GO:16233	telomere capping
+GO:1902253	regulation of intrinsic apoptotic signaling pathway by p53 class mediator
+GO:715	nucleotide-excision repair, DNA damage recognition
+GO:1902275	regulation of chromatin organization
+GO:16573	histone acetylation
+GO:51568	histone H3-K4 methylation
+GO:34502	protein localization to chromosome
+GO:4386	helicase activity
+GO:731	DNA synthesis involved in DNA repair
+GO:1902165	regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+GO:31060	regulation of histone methylation
+GO:31056	regulation of histone modification
+GO:1990226	histone methyltransferase binding
+GO:61647	histone H3-K9 modification
+GO:1901983	regulation of protein acetylation
+GO:3684	damaged DNA binding
+GO:51170	nuclear import
+GO:31491	nucleosome binding
+GO:16363	nuclear matrix
+GO:16605	PML body
+GO:43516	regulation of DNA damage response, signal transduction by p53 class mediator
+GO:6302	double-strand break repair
+GO:8094	DNA-dependent ATPase activity
+GO:1902493	acetyltransferase complex
+GO:31248	protein acetyltransferase complex
+GO:35326	enhancer binding
+GO:5730	nucleolus
+GO:1905268	negative regulation of chromatin organization
+GO:8026	ATP-dependent helicase activity
+GO:43044	ATP-dependent chromatin remodeling
+GO:35067	negative regulation of histone acetylation
+GO:726	non-recombinational repair
+GO:5521	lamin binding
+GO:16458	gene silencing
+GO:6312	mitotic recombination
+GO:731	DNA synthesis involved in DNA repair
+GO:732	strand displacement
+GO:7127	meiosis I
+GO:71897	DNA biosynthetic process

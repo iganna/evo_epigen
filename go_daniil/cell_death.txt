@@ -1,0 +1,41 @@
+GO:12501	programmed cell death
+GO:10941	regulation of cell death
+GO:42981	regulation of apoptotic process
+GO:6915	apoptotic process
+GO:43067	regulation of programmed cell death
+GO:8219	cell death
+GO:2001242	regulation of intrinsic apoptotic signaling pathway
+GO:43066	negative regulation of apoptotic process
+GO:43069	negative regulation of programmed cell death
+GO:60548	negative regulation of cell death
+GO:97193	intrinsic apoptotic signaling pathway
+GO:2001233	regulation of apoptotic signaling pathway
+GO:97190	apoptotic signaling pathway
+GO:1902235	regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+GO:2001244	positive regulation of intrinsic apoptotic signaling pathway
+GO:10942	positive regulation of cell death
+GO:70059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+GO:2001243	negative regulation of intrinsic apoptotic signaling pathway
+GO:2001234	negative regulation of apoptotic signaling pathway
+GO:43065	positive regulation of apoptotic process
+GO:43068	positive regulation of programmed cell death
+GO:43281	regulation of cysteine-type endopeptidase activity involved in apoptotic process
+GO:1901216	positive regulation of neuron death
+GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors
+GO:2001235	positive regulation of apoptotic signaling pathway
+GO:1990442	intrinsic apoptotic signaling pathway in response to nitrosative stress
+GO:10939	regulation of necrotic cell death
+GO:1902237	positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+GO:43280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process
+GO:8630	intrinsic apoptotic signaling pathway in response to DNA damage
+GO:8625	extrinsic apoptotic signaling pathway via death domain receptors
+GO:43154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors
+GO:43525	positive regulation of neuron apoptotic process
+GO:1901214	regulation of neuron death
+GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+GO:8637	apoptotic mitochondrial changes
+GO:1844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway
+GO:97345	mitochondrial outer membrane permeabilization
+GO:1836	release of cytochrome c from mitochondria
+GO:97194	execution phase of apoptosis

@@ -1,0 +1,68 @@
+GO:6968	cellular defense response
+GO:2689	negative regulation of leukocyte chemotaxis
+GO:45087	innate immune response
+GO:10760	negative regulation of macrophage chemotaxis
+GO:50900	leukocyte migration
+GO:1909	leukocyte mediated cytotoxicity
+GO:30595	leukocyte chemotaxis
+GO:43032	positive regulation of macrophage activation
+GO:6955	immune response
+GO:97529	myeloid leukocyte migration
+GO:98542	defense response to other organism
+GO:1906	cell killing
+GO:2228	natural killer cell mediated immunity
+GO:42269	regulation of natural killer cell mediated cytotoxicity
+GO:2686	negative regulation of leukocyte migration
+GO:2715	regulation of natural killer cell mediated immunity
+GO:1910	regulation of leukocyte mediated cytotoxicity
+GO:42267	natural killer cell mediated cytotoxicity
+GO:50778	positive regulation of immune response
+GO:31349	positive regulation of defense response
+GO:48247	lymphocyte chemotaxis
+GO:2253	activation of immune response
+GO:42742	defense response to bacterium
+GO:2227	innate immune response in mucosa
+GO:19731	antibacterial humoral response
+GO:30219	megakaryocyte differentiation
+GO:34101	erythrocyte homeostasis
+GO:45652	regulation of megakaryocyte differentiation
+GO:30218	erythrocyte differentiation
+GO:50830	defense response to Gram-positive bacterium
+GO:30099	myeloid cell differentiation
+GO:2385	mucosal immune response
+GO:45637	regulation of myeloid cell differentiation
+GO:2251	organ or tissue specific immune response
+GO:19730	antimicrobial humoral response
+GO:33077	T cell differentiation in thymus
+GO:45653	negative regulation of megakaryocyte differentiation
+GO:3725	double-stranded RNA binding
+GO:30097	hemopoiesis
+GO:42267	natural killer cell mediated cytotoxicity
+GO:45638	negative regulation of myeloid cell differentiation
+GO:2220	innate immune response activating cell surface receptor signaling pathway
+GO:38093	Fc receptor signaling pathway
+GO:45639	positive regulation of myeloid cell differentiation
+GO:48534	hematopoietic or lymphoid organ development
+GO:45087	innate immune response
+GO:2520	immune system development
+GO:2228	natural killer cell mediated immunity
+GO:71353	cellular response to interleukin-4
+GO:38095	Fc-epsilon receptor signaling pathway
+GO:31341	regulation of cell killing
+GO:45089	positive regulation of innate immune response
+GO:45577	regulation of B cell differentiation
+GO:32757	positive regulation of interleukin-8 production
+GO:32606	type I interferon production
+GO:45646	regulation of erythrocyte differentiation
+GO:2683	negative regulation of immune system process
+GO:2703	regulation of leukocyte mediated immunity
+GO:31342	negative regulation of cell killing
+GO:32479	regulation of type I interferon production
+GO:2262	myeloid cell homeostasis
+GO:1906	cell killing
+GO:30670	phagocytic vesicle membrane
+GO:30851	granulocyte differentiation
+GO:1903706	regulation of hemopoiesis
+GO:2474	antigen processing and presentation of peptide antigen via MHC class I
+GO:34097	response to cytokine
+GO:35666	TRIF-dependent toll-like receptor signaling pathway

@@ -1,0 +1,24 @@
+GO:80135	regulation of cellular response to stress
+GO:34976	response to endoplasmic reticulum stress
+GO:10494	cytoplasmic stress granule
+GO:51591	response to cAMP
+GO:80134	regulation of response to stress
+GO:6914	autophagy
+GO:71456	cellular response to hypoxia
+GO:71453	cellular response to oxygen levels
+GO:10508	positive regulation of autophagy
+GO:302	response to reactive oxygen species
+GO:34614	cellular response to reactive oxygen species
+GO:36294	cellular response to decreased oxygen levels
+GO:9411	response to UV
+GO:6979	response to oxidative stress
+GO:1901701	cellular response to oxygen-containing compound
+GO:1903573	negative regulation of response to endoplasmic reticulum stress
+GO:10035	response to inorganic substance
+GO:42542	response to hydrogen peroxide
+GO:71500	cellular response to nitrosative stress
+GO:9314	response to radiation
+GO:10506	regulation of autophagy
+GO:34599	cellular response to oxidative stress
+GO:6970	response to osmotic stress
+GO:34644	cellular response to UV

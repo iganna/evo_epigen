@@ -1,0 +1,4 @@
+GO:19373	epoxygenase P450 pathway
+GO:6805	xenobiotic metabolic process
+GO:71466	cellular response to xenobiotic stimulus
+GO:9410	response to xenobiotic stimulus

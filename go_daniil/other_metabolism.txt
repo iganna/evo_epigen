@@ -1,0 +1,13 @@
+GO:43436	oxoacid metabolic process
+GO:52689	carboxylic ester hydrolase activity
+GO:16054	organic acid catabolic process
+GO:30246	carbohydrate binding
+GO:6732	coenzyme metabolic process
+GO:51186	cofactor metabolic process
+GO:43394	proteoglycan binding
+GO:16788	hydrolase activity, acting on ester bonds
+GO:4553	hydrolase activity, hydrolyzing O-glycosyl compounds
+GO:16742	hydroxymethyl-, formyl- and related transferase activity
+GO:1948	glycoprotein binding
+GO:16798	hydrolase activity, acting on glycosyl bonds
+GO:30554	adenyl nucleotide binding

@@ -1,0 +1,9 @@
+GO:9566	fertilization
+GO:35036	sperm-egg recognition
+GO:30317	sperm motility
+GO:36126	sperm flagellum
+GO:1902093	positive regulation of sperm motility
+GO:19953	sexual reproduction
+GO:7339	binding of sperm to zona pellucida
+GO:7338	single fertilization
+GO:97223	sperm part

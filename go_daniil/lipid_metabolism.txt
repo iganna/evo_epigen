@@ -1,0 +1,11 @@
+GO:6082	organic acid metabolic process
+GO:19752	carboxylic acid metabolic process
+GO:16042	lipid catabolic process
+GO:52689	carboxylic ester hydrolase activity
+GO:44241	lipid digestion
+GO:8392	arachidonic acid epoxygenase activity
+GO:8391	arachidonic acid monooxygenase activity
+GO:16298	lipase activity
+GO:19369	arachidonic acid metabolic process
+GO:6631	fatty acid metabolic process
+GO:46395	carboxylic acid catabolic process

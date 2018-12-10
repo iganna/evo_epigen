@@ -1,0 +1,9 @@
+GO:6488	dolichol-linked oligosaccharide biosynthetic process
+GO:44723	single-organism carbohydrate metabolic process
+GO:1901657	glycosyl compound metabolic process
+GO:6490	oligosaccharide-lipid intermediate biosynthetic process
+GO:5978	glycogen biosynthetic process
+GO:1901135	carbohydrate derivative metabolic process
+GO:5975	carbohydrate metabolic process
+GO:46527	glucosyltransferase activity
+GO:45912	negative regulation of carbohydrate metabolic process

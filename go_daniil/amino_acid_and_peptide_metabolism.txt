@@ -1,0 +1,20 @@
+GO:6520	cellular amino acid metabolic process
+GO:43038	amino acid activation
+GO:70011	peptidase activity, acting on L-amino acid peptides
+GO:16645	oxidoreductase activity, acting on the CH-NH group of donors
+GO:4252	serine-type endopeptidase activity
+GO:8233	peptidase activity
+GO:8236	serine-type peptidase activity
+GO:6560	proline metabolic process
+GO:42436	indole-containing compound catabolic process
+GO:46218	indolalkylamine catabolic process
+GO:4175	endopeptidase activity
+GO:6569	tryptophan catabolic process
+GO:8237	metallopeptidase activity
+GO:19439	aromatic compound catabolic process
+GO:2000116	regulation of cysteine-type endopeptidase activity
+GO:34250	positive regulation of cellular amide metabolic process
+GO:42398	cellular modified amino acid biosynthetic process
+GO:10950	positive regulation of endopeptidase activity
+GO:2001056	positive regulation of cysteine-type endopeptidase activity
+GO:10952	positive regulation of peptidase activity

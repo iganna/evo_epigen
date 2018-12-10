@@ -1,0 +1,137 @@
+GO:44822	poly(A) RNA binding
+GO:6614	SRP-dependent cotranslational protein targeting to membrane
+GO:22626	cytosolic ribosome
+GO:6413	translational initiation
+GO:44391	ribosomal subunit
+GO:6613	cotranslational protein targeting to membrane
+GO:45047	protein targeting to ER
+GO:72599	establishment of protein localization to endoplasmic reticulum
+GO:5840	ribosome
+GO:70972	protein localization to endoplasmic reticulum
+GO:16071	mRNA metabolic process
+GO:3735	structural constituent of ribosome
+GO:6412	translation
+GO:6364	rRNA processing
+GO:42254	ribosome biogenesis
+GO:16072	rRNA metabolic process
+GO:43043	peptide biosynthetic process
+GO:15934	large ribosomal subunit
+GO:6612	protein targeting to membrane
+GO:22625	cytosolic large ribosomal subunit
+GO:6518	peptide metabolic process
+GO:90150	establishment of protein localization to membrane
+GO:33365	protein localization to organelle
+GO:72594	establishment of protein localization to organelle
+GO:72657	protein localization to membrane
+GO:22627	cytosolic small ribosomal subunit
+GO:6605	protein targeting
+GO:15935	small ribosomal subunit
+GO:19843	rRNA binding
+GO:42255	ribosome assembly
+GO:2181	cytoplasmic translation
+GO:42273	ribosomal large subunit biogenesis
+GO:42274	ribosomal small subunit biogenesis
+GO:27	ribosomal large subunit assembly
+GO:31647	regulation of protein stability
+GO:6417	regulation of translation
+GO:10498	proteasomal protein catabolic process
+GO:43161	proteasome-mediated ubiquitin-dependent protein catabolic process
+GO:50821	protein stabilization
+GO:6986	response to unfolded protein
+GO:51082	unfolded protein binding
+GO:30163	protein catabolic process
+GO:51603	proteolysis involved in cellular protein catabolic process
+GO:35966	response to topologically incorrect protein
+GO:44389	ubiquitin-like protein ligase binding
+GO:6511	ubiquitin-dependent protein catabolic process
+GO:44257	cellular protein catabolic process
+GO:51087	chaperone binding
+GO:28	ribosomal small subunit assembly
+GO:31625	ubiquitin protein ligase binding
+GO:6446	regulation of translational initiation
+GO:30684	preribosome
+GO:6414	translational elongation
+GO:16567	protein ubiquitination
+GO:1903050	regulation of proteolysis involved in cellular protein catabolic process
+GO:51246	regulation of protein metabolic process
+GO:6457	protein folding
+GO:45862	positive regulation of proteolysis
+GO:19904	protein domain specific binding
+GO:36500	ATF6-mediated unfolded protein response
+GO:1903362	regulation of cellular protein catabolic process
+GO:31400	negative regulation of protein modification process
+GO:34620	cellular response to unfolded protein
+GO:1900101	regulation of endoplasmic reticulum unfolded protein response
+GO:18193	peptidyl-amino acid modification
+GO:209	protein polyubiquitination
+GO:31396	regulation of protein ubiquitination
+GO:5761	mitochondrial ribosome
+GO:313	organellar ribosome
+GO:5762	mitochondrial large ribosomal subunit
+GO:315	organellar large ribosomal subunit
+GO:1903052	positive regulation of proteolysis involved in cellular protein catabolic process
+GO:30687	preribosome, large subunit precursor
+GO:1903320	regulation of protein modification by small protein conjugation or removal
+GO:51291	protein heterooligomerization
+GO:35967	cellular response to topologically incorrect protein
+GO:8135	translation factor activity, RNA binding
+GO:51865	protein autoubiquitination
+GO:51262	protein tetramerization
+GO:70180	large ribosomal subunit rRNA binding
+GO:43248	proteasome assembly
+GO:51290	protein heterotetramerization
+GO:31397	negative regulation of protein ubiquitination
+GO:42176	regulation of protein catabolic process
+GO:1731	formation of translation preinitiation complex
+GO:51438	regulation of ubiquitin-protein transferase activity
+GO:1904668	positive regulation of ubiquitin protein ligase activity
+GO:2183	cytoplasmic translational initiation
+GO:70125	mitochondrial translational elongation
+GO:70534	protein K63-linked ubiquitination
+GO:1903321	negative regulation of protein modification by small protein conjugation or removal
+GO:70126	mitochondrial translational termination
+GO:1904666	regulation of ubiquitin protein ligase activity
+GO:30162	regulation of proteolysis
+GO:45727	positive regulation of translation
+GO:42787	protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+GO:32543	mitochondrial translation
+GO:1900102	negative regulation of endoplasmic reticulum unfolded protein response
+GO:45732	positive regulation of protein catabolic process
+GO:32403	protein complex binding
+GO:51444	negative regulation of ubiquitin-protein transferase activity
+GO:43496	regulation of protein homodimerization activity
+GO:6415	translational termination
+GO:31369	translation initiation factor binding
+GO:51436	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle
+GO:17148	negative regulation of translation
+GO:34975	protein folding in endoplasmic reticulum
+GO:4842	ubiquitin-protein transferase activity
+GO:32436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:1904667	negative regulation of ubiquitin protein ligase activity
+GO:51259	protein oligomerization
+GO:51443	positive regulation of ubiquitin-protein transferase activity
+GO:19787	ubiquitin-like protein transferase activity
+GO:5844	polysome
+GO:42026	protein refolding
+GO:502	proteasome complex
+GO:32092	positive regulation of protein binding
+GO:30490	maturation of SSU-rRNA
+GO:46983	protein dimerization activity
+GO:30968	endoplasmic reticulum unfolded protein response
+GO:3743	translation initiation factor activity
+GO:32434	regulation of proteasomal ubiquitin-dependent protein catabolic process
+GO:61136	regulation of proteasomal protein catabolic process
+GO:1903894	regulation of IRE1-mediated unfolded protein response
+GO:31072	heat shock protein binding
+GO:1903364	positive regulation of cellular protein catabolic process
+GO:470	maturation of LSU-rRNA
+GO:32269	negative regulation of cellular protein metabolic process
+GO:61650	ubiquitin-like protein conjugating enzyme activity
+GO:61635	regulation of protein complex stability
+GO:6418	tRNA aminoacylation for protein translation
+GO:43039	tRNA aminoacylation
+GO:4812	aminoacyl-tRNA ligase activity
+GO:16876	ligase activity, forming aminoacyl-tRNA and related compounds
+GO:16875	ligase activity, forming carbon-oxygen bonds
+GO:6450	regulation of translational fidelity
+GO:6515	misfolded or incompletely synthesized protein catabolic process

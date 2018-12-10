@@ -1,0 +1,42 @@
+GO:70062	extracellular exosome
+GO:42470	melanosome
+GO:48770	pigment granule
+GO:1890	placenta development
+GO:32069	regulation of nuclease activity
+GO:97421	liver regeneration
+GO:1701	in utero embryonic development
+GO:30119	AP-type membrane coat adaptor complex
+GO:16234	inclusion body
+GO:42559	pteridine-containing compound biosynthetic process
+GO:43274	phospholipase binding
+GO:30666	endocytic vesicle membrane
+GO:15630	microtubule cytoskeleton
+GO:9396	folic acid-containing compound biosynthetic process
+GO:48608	reproductive structure development
+GO:1889	liver development
+GO:5767	secondary lysosome
+GO:48872	homeostasis of number of cells
+GO:61458	reproductive system development
+GO:6826	iron ion transport
+GO:31996	thioesterase binding
+GO:7623	circadian rhythm
+GO:43209	myelin sheath
+GO:61008	hepaticobiliary system development
+GO:21762	substantia nigra development
+GO:1892	embryonic placenta development
+GO:48511	rhythmic process
+GO:98852	lytic vacuole membrane
+GO:5765	lysosomal membrane
+GO:51651	maintenance of location in cell
+GO:32075	positive regulation of nuclease activity
+GO:60700	regulation of ribonuclease activity
+GO:6863	purine nucleobase transport
+GO:30139	endocytic vesicle
+GO:1948	glycoprotein binding
+GO:6595	polyamine metabolic process
+GO:14070	response to organic cyclic compound
+GO:1904627	response to phorbol 13-acetate 12-myristate
+GO:1904628	cellular response to phorbol 13-acetate 12-myristate
+GO:31514	motile cilium
+GO:40016	embryonic cleavage
+GO:32094	response to food

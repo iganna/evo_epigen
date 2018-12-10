@@ -1,0 +1,52 @@
+GO:9988	cell-cell recognition
+GO:38023	signaling receptor activity
+GO:4888	transmembrane signaling receptor activity
+GO:7259	JAK-STAT cascade
+GO:1901796	regulation of signal transduction by p53 class mediator
+GO:19900	kinase binding
+GO:19901	protein kinase binding
+GO:7179	transforming growth factor beta receptor signaling pathway
+GO:2039	p53 binding
+GO:38061	NIK/NF-kappaB signaling
+GO:32006	regulation of TOR signaling
+GO:71560	cellular response to transforming growth factor beta stimulus
+GO:71559	response to transforming growth factor beta
+GO:31929	TOR signaling
+GO:60071	Wnt signaling pathway, planar cell polarity pathway
+GO:51427	hormone receptor binding
+GO:1881	receptor recycling
+GO:35257	nuclear hormone receptor binding
+GO:32008	positive regulation of TOR signaling
+GO:48545	response to steroid hormone
+GO:2223	stimulatory C-type lectin receptor signaling pathway
+GO:71383	cellular response to steroid hormone stimulus
+GO:9725	response to hormone
+GO:35258	steroid hormone receptor binding
+GO:71396	cellular response to lipid
+GO:30522	intracellular receptor signaling pathway
+GO:90175	regulation of establishment of planar polarity
+GO:70848	response to growth factor
+GO:71364	cellular response to epidermal growth factor stimulus
+GO:6984	ER-nucleus signaling pathway
+GO:30518	intracellular steroid hormone receptor signaling pathway
+GO:35872	nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway
+GO:1902532	negative regulation of intracellular signal transduction
+GO:71363	cellular response to growth factor stimulus
+GO:7249	I-kappaB kinase/NF-kappaB signaling
+GO:7178	transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:1903432	regulation of TORC1 signaling
+GO:38202	TORC1 signaling
+GO:71889	14-3-3 protein binding
+GO:9968	negative regulation of signal transduction
+GO:72542	protein phosphatase activator activity
+GO:70849	response to epidermal growth factor
+GO:71774	response to fibroblast growth factor
+GO:30308	negative regulation of cell growth
+GO:38066	p38MAPK cascade
+GO:1736	establishment of planar polarity
+GO:7164	establishment of tissue polarity
+GO:33673	negative regulation of kinase activity
+GO:8543	fibroblast growth factor receptor signaling pathway
+GO:45598	regulation of fat cell differentiation
+GO:1933	negative regulation of protein phosphorylation
+GO:51384	response to glucocorticoid

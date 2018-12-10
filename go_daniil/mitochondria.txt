@@ -1,0 +1,21 @@
+GO:5739	mitochondrion
+GO:7005	mitochondrion organization
+GO:31966	mitochondrial membrane
+GO:5740	mitochondrial envelope
+GO:5743	mitochondrial inner membrane
+GO:7006	mitochondrial membrane organization
+GO:98800	inner mitochondrial membrane protein complex
+GO:5759	mitochondrial matrix
+GO:98803	respiratory chain complex
+GO:5746	mitochondrial respiratory chain
+GO:44455	mitochondrial membrane part
+GO:10821	regulation of mitochondrion organization
+GO:42775	mitochondrial ATP synthesis coupled electron transport
+GO:42773	ATP synthesis coupled electron transport
+GO:6119	oxidative phosphorylation
+GO:70469	respiratory chain
+GO:44429	mitochondrial part
+GO:5739	mitochondrion
+GO:98798	mitochondrial protein complex
+GO:5759	mitochondrial matrix
+GO:959	mitochondrial RNA metabolic process

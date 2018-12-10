@@ -1,0 +1,19 @@
+GO:32446	protein modification by small protein conjugation
+GO:8213	protein alkylation
+GO:90316	positive regulation of intracellular protein transport
+GO:70585	protein localization to mitochondrion
+GO:1990542	mitochondrial transmembrane transport
+GO:71806	protein transmembrane transport
+GO:6839	mitochondrial transport
+GO:72655	establishment of protein localization to mitochondrion
+GO:90151	establishment of protein localization to mitochondrial membrane
+GO:1903827	regulation of cellular protein localization
+GO:6486	protein glycosylation
+GO:43413	macromolecule glycosylation
+GO:6471	protein ADP-ribosylation
+GO:43543	protein acylation
+GO:70085	glycosylation
+GO:16757	transferase activity, transferring glycosyl groups
+GO:1903608	protein localization to cytoplasmic stress granule
+GO:18196	peptidyl-asparagine modification
+GO:18279	protein N-linked glycosylation via asparagine

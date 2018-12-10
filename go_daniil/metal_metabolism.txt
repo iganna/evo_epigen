@@ -1,0 +1,6 @@
+GO:10044	response to aluminum ion
+GO:6883	cellular sodium ion homeostasis
+GO:51540	metal cluster binding
+GO:36376	sodium ion export from cell
+GO:5890	sodium:potassium-exchanging ATPase complex
+GO:5391	sodium:potassium-exchanging ATPase activity

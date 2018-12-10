@@ -1,0 +1,17 @@
+GO:19083	viral transcription
+GO:19080	viral gene expression
+GO:16032	viral process
+GO:44403	symbiosis, encompassing mutualism through parasitism
+GO:19058	viral life cycle
+GO:19013	viral nucleocapsid
+GO:19028	viral capsid
+GO:2190	cap-independent translational initiation
+GO:19081	viral translation
+GO:19012	virion
+GO:44423	virion part
+GO:19068	virion assembly
+GO:43903	regulation of symbiosis, encompassing mutualism through parasitism
+GO:46782	regulation of viral transcription
+GO:75522	IRES-dependent viral translational initiation
+GO:32897	negative regulation of viral transcription
+GO:2192	IRES-dependent translational initiation

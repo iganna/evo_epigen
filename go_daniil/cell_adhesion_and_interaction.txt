@@ -1,0 +1,15 @@
+GO:70161	anchoring junction
+GO:5912	adherens junction
+GO:5925	focal adhesion
+GO:5924	cell-substrate adherens junction
+GO:30055	cell-substrate junction
+GO:98609	cell-cell adhesion
+GO:98641	cadherin binding involved in cell-cell adhesion
+GO:98632	protein binding involved in cell-cell adhesion
+GO:98631	protein binding involved in cell adhesion
+GO:45296	cadherin binding
+GO:5913	cell-cell adherens junction
+GO:50839	cell adhesion molecule binding
+GO:30054	cell junction
+GO:31012	extracellular matrix
+GO:5911	cell-cell junction

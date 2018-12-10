@@ -1,0 +1,24 @@
+GO:46700	heterocycle catabolic process
+GO:46034	ATP metabolic process
+GO:9144	purine nucleoside triphosphate metabolic process
+GO:17111	nucleoside-triphosphatase activity
+GO:16462	pyrophosphatase activity
+GO:9141	nucleoside triphosphate metabolic process
+GO:9205	purine ribonucleoside triphosphate metabolic process
+GO:3924	GTPase activity
+GO:16817	hydrolase activity, acting on acid anhydrides
+GO:16818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+GO:9167	purine ribonucleoside monophosphate metabolic process
+GO:9126	purine nucleoside monophosphate metabolic process
+GO:9116	nucleoside metabolic process
+GO:9199	ribonucleoside triphosphate metabolic process
+GO:9123	nucleoside monophosphate metabolic process
+GO:9161	ribonucleoside monophosphate metabolic process
+GO:42623	ATPase activity, coupled
+GO:46128	purine ribonucleoside metabolic process
+GO:42278	purine nucleoside metabolic process
+GO:15853	adenine transport
+GO:32557	pyrimidine ribonucleotide binding
+GO:9119	ribonucleoside metabolic process
+GO:19103	pyrimidine nucleotide binding
+GO:5525	GTP binding

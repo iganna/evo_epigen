@@ -1,0 +1,18 @@
+GO:10033	response to organic substance
+GO:46683	response to organophosphorus
+GO:43604	amide biosynthetic process
+GO:1901361	organic cyclic compound catabolic process
+GO:43603	cellular amide metabolic process
+GO:34248	regulation of cellular amide metabolic process
+GO:34708	methyltransferase complex
+GO:51348	negative regulation of transferase activity
+GO:43414	macromolecule methylation
+GO:36094	small molecule binding
+GO:32259	methylation
+GO:9894	regulation of catabolic process
+GO:31329	regulation of cellular catabolic process
+GO:31331	positive regulation of cellular catabolic process
+GO:9896	positive regulation of catabolic process
+GO:16811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:34249	negative regulation of cellular amide metabolic process
+GO:1990204	oxidoreductase complex

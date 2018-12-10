@@ -1,0 +1,9 @@
+GO:50911	detection of chemical stimulus involved in sensory perception of smell
+GO:9593	detection of chemical stimulus
+GO:4984	olfactory receptor activity
+GO:7608	sensory perception of smell
+GO:50907	detection of chemical stimulus involved in sensory perception
+GO:50906	detection of stimulus involved in sensory perception
+GO:7606	sensory perception of chemical stimulus
+GO:7600	sensory perception
+GO:5549	odorant binding

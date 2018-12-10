@@ -1,0 +1,139 @@
+GO:184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+GO:956	nuclear-transcribed mRNA catabolic process
+GO:6402	mRNA catabolic process
+GO:6396	RNA processing
+GO:6401	RNA catabolic process
+GO:34660	ncRNA metabolic process
+GO:44270	cellular nitrogen compound catabolic process
+GO:6397	mRNA processing
+GO:8380	RNA splicing
+GO:398	mRNA splicing, via spliceosome
+GO:377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+GO:375	RNA splicing, via transesterification reactions
+GO:10608	posttranscriptional regulation of gene expression
+GO:45814	negative regulation of gene expression, epigenetic
+GO:1903311	regulation of mRNA metabolic process
+GO:40029	regulation of gene expression, epigenetic
+GO:50684	regulation of mRNA processing
+GO:6366	transcription from RNA polymerase II promoter
+GO:43618	regulation of transcription from RNA polymerase II promoter in response to stress
+GO:43488	regulation of mRNA stability
+GO:43620	regulation of DNA-templated transcription in response to stress
+GO:43487	regulation of RNA stability
+GO:6403	RNA localization
+GO:43484	regulation of RNA splicing
+GO:48024	regulation of mRNA splicing, via spliceosome
+GO:462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5,8S rRNA, LSU-rRNA)
+GO:3712	transcription cofactor activity
+GO:381	regulation of alternative mRNA splicing, via spliceosome
+GO:5667	transcription factor complex
+GO:3713	transcription coactivator activity
+GO:71166	ribonucleoprotein complex localization
+GO:5681	spliceosomal complex
+GO:989	transcription factor activity, transcription factor binding
+GO:45815	positive regulation of gene expression, epigenetic
+GO:1902680	positive regulation of RNA biosynthetic process
+GO:988	transcription factor activity, protein binding
+GO:36464	cytoplasmic ribonucleoprotein granule
+GO:10501	RNA secondary structure unwinding
+GO:33119	negative regulation of RNA splicing
+GO:1903508	positive regulation of nucleic acid-templated transcription
+GO:45893	positive regulation of transcription, DNA-templated
+GO:1903312	negative regulation of mRNA metabolic process
+GO:122	negative regulation of transcription from RNA polymerase II promoter
+GO:50657	nucleic acid transport
+GO:50658	RNA transport
+GO:8134	transcription factor binding
+GO:51236	establishment of RNA localization
+GO:35770	ribonucleoprotein granule
+GO:70990	snRNP binding
+GO:16073	snRNA metabolic process
+GO:98781	ncRNA transcription
+GO:6405	RNA export from nucleus
+GO:1067	regulatory region nucleic acid binding
+GO:43021	ribonucleoprotein complex binding
+GO:4004	ATP-dependent RNA helicase activity
+GO:31123	RNA 3'-end processing
+GO:48255	mRNA stabilization
+GO:44798	nuclear transcription factor complex
+GO:5685	U1 snRNP
+GO:8186	RNA-dependent ATPase activity
+GO:90575	RNA polymerase II transcription factor complex
+GO:3724	RNA helicase activity
+GO:43489	RNA stabilization
+GO:71426	ribonucleoprotein complex export from nucleus
+GO:70761	pre-snoRNP complex
+GO:6357	regulation of transcription from RNA polymerase II promoter
+GO:31124	mRNA 3'-end processing
+GO:48025	negative regulation of mRNA splicing, via spliceosome
+GO:31047	gene silencing by RNA
+GO:1903313	positive regulation of mRNA metabolic process
+GO:50686	negative regulation of mRNA processing
+GO:1990446	U1 snRNP binding
+GO:6369	termination of RNA polymerase II transcription
+GO:45944	positive regulation of transcription from RNA polymerase II promoter
+GO:1046	core promoter sequence-specific DNA binding
+GO:1047	core promoter binding
+GO:42795	snRNA transcription from RNA polymerase II promoter
+GO:9301	snRNA transcription
+GO:288	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:17091	AU-rich element binding
+GO:51090	regulation of sequence-specific DNA binding transcription factor activity
+GO:30532	small nuclear ribonucleoprotein complex
+GO:6283	transcription-coupled nucleotide-excision repair
+GO:33120	positive regulation of RNA splicing
+GO:97201	negative regulation of transcription from RNA polymerase II promoter in response to stress
+GO:51028	mRNA transport
+GO:1903026	negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:70063	RNA polymerase binding
+GO:97525	spliceosomal snRNP complex
+GO:1990440	positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress
+GO:71010	prespliceosome
+GO:245	spliceosomal complex assembly
+GO:5684	U2-type spliceosomal complex
+GO:428	DNA-directed RNA polymerase complex
+GO:55029	nuclear DNA-directed RNA polymerase complex
+GO:1990441	negative regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress
+GO:48254	snoRNA localization
+GO:70816	phosphorylation of RNA polymerase II C-terminal domain
+GO:31125	rRNA 3'-end processing
+GO:43628	ncRNA 3'-end processing
+GO:30880	RNA polymerase complex
+GO:43392	negative regulation of DNA binding
+GO:3714	transcription corepressor activity
+GO:43433	negative regulation of sequence-specific DNA binding transcription factor activity
+GO:1990837	sequence-specific double-stranded DNA binding
+GO:5669	transcription factor TFIID complex
+GO:976	transcription regulatory region sequence-specific DNA binding
+GO:17069	snRNA binding
+GO:380	alternative mRNA splicing, via spliceosome
+GO:60968	regulation of gene silencing
+GO:71427	mRNA-containing ribonucleoprotein complex export from nucleus
+GO:6406	mRNA export from nucleus
+GO:31086	nuclear-transcribed mRNA catabolic process, deadenylation-independent decay
+GO:36003	positive regulation of transcription from RNA polymerase II promoter in response to stress
+GO:50685	positive regulation of mRNA processing
+GO:3700	transcription factor activity, sequence-specific DNA binding
+GO:97322	7SK snRNA binding
+GO:55131	C3HC4-type RING finger domain binding
+GO:3730	mRNA 3'-UTR binding
+GO:90501	RNA phosphodiester bond hydrolysis
+GO:6367	transcription initiation from RNA polymerase II promoter
+GO:387	spliceosomal snRNP assembly
+GO:2000677	regulation of transcription regulatory region DNA binding
+GO:51091	positive regulation of sequence-specific DNA binding transcription factor activity
+GO:1900151	regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:1903025	regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:71004	U2-type prespliceosome
+GO:34719	SMN-Sm protein complex
+GO:70935	3'-UTR-mediated mRNA stabilization
+GO:45892	negative regulation of transcription, DNA-templated
+GO:6353	DNA-templated transcription, termination
+GO:44212	transcription regulatory region DNA binding
+GO:975	regulatory region DNA binding
+GO:6352	DNA-templated transcription, initiation
+GO:60699	regulation of endoribonuclease activity
+GO:1900153	positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+GO:43425	bHLH transcription factor binding
+GO:15030	Cajal body
+GO:243	commitment complex
